@@ -1,6 +1,7 @@
 # Test
+Changing readme fi
 This  repository is for testing 
-Try to install Ubuntu server 22.04
+
 
 Steps 
 Download ubuntu server 22.04 iso file from website https://ubuntu.com/download/server
@@ -12,7 +13,7 @@ https://releases.ubuntu.com/focal/
 
 If iso file is downloaded to windows, rufus is used to create bootable USB
 Download Rufus 3.2 from https://rufus.ie/en/
-Minimum of  8 GB USB pendrive is taken and kept formatted.
+Minimum of  16 GB USB pendrive is taken and kept formatted.
 Open Rufus and plugin USB 
 Select the USB drive attached 
 Choose iso file that is downloaded
